@@ -1,0 +1,6 @@
+
+Capstone Project 2 - Dibetes Detection
+
+ Tableau Public Dashboard Link : 
+
+   https://public.tableau.com/app/profile/sandipani.tribedi/viz/CapstoneProject-DiabetesDetection/Dashboard1?publish=yes
